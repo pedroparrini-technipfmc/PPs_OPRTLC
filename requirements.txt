@@ -1,4 +1,4 @@
-pikepdf==9.4.2
-comtypes==1.4.7
-streamlit==1.38.0
+pikepdf
+comtypes
+streamlit
 pywin32
